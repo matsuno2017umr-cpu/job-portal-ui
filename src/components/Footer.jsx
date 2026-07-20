@@ -164,6 +164,7 @@ const Footer = () => {
               </Link>
               <Link
                 to="/contact"
+                title="Get in touch with our support team"
                 className="group relative hover:text-white transition-colors duration-300"
               >
                 <span className="relative z-10">Contact Us</span>
