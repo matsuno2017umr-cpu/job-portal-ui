@@ -25,3 +25,8 @@ dist-ssr
 
 # Playwright MCP snapshots
 .playwright-mcp/
+
+# TinDog bot secrets & Python cache
+tindog-bot/.env
+tindog-bot/__pycache__/
+tindog-bot/.venv/
