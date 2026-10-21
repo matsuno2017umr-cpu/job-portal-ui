@@ -30,3 +30,9 @@ dist-ssr
 tindog-bot/.env
 tindog-bot/__pycache__/
 tindog-bot/.venv/
+
+# DeepSeek Search & Fetch secrets, cache, and saved pages
+deepseek-search/.env
+deepseek-search/__pycache__/
+deepseek-search/.venv/
+deepseek-search/output/
